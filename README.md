@@ -15,9 +15,9 @@ or
 python face_morphing_w_triangulation.py
 ```  
 ## Explanations  
-Faces with Landmark Points  
+### Faces with Landmark Points  
 ![Alt Text](https://github.com/emreslyn/facial_landmark_and_image_morphing/blob/main/outputs/part1_with_landmarks_collage.png)  
-Detected Face  
+### Detected Face  
 ![Alt Text](https://github.com/emreslyn/facial_landmark_and_image_morphing/blob/main/outputs/part1_with_rectangle_kimbodnia.png)  
-Image Morphing  Example  
+### Image Morphing  Example  
 ![Alt Text](https://github.com/emreslyn/facial_landmark_and_image_morphing/blob/main/outputs/transformation.gif)  
